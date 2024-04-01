@@ -20,14 +20,9 @@ Motivasyon Sağlama: Kullanıcıların daha fazla ilerlemeye teşvik edilmesi i�
  4. Yardımcı Sınıflar
 Form2Fonksiyonlar: Form2 için yardımcı işlevler sağlar. Seviyelerin kilidini açmak ve Form3'ü açmak gibi işlevleri içerir.
 Form3Fonksiyonlar: Form3 için yardımcı işlevler sağlar. Soruları üretmek ve doğruluk kontrolü yapmak gibi işlevleri içerir.
-Nasıl Kullanılır?
+# Nasıl Kullanılır?
 Projeyi bilgisayarınıza klonlayın veya indirin.
 Projeyi Visual Studio veya benzeri bir C# geliştirme ortamında açın.
 Projeyi derleyin ve çalıştırın.
 Formlar arasında geçiş yaparak seviyeleri tamamlayın ve matematik becerilerinizi geliştirin.
-Projeyi Neden Kullanmalısınız?
-Etkili Matematik Eğitimi: Temel matematik becerilerinizi geliştirmek için etkili bir yöntem sunar.
-Kullanıcı Dostu Arayüz: Kolayca kullanılabilir bir arayüz sunar.
-Motivasyon Sağlar: Başarıları gösteren bir skor tablosuyla kullanıcıları motive eder.
-Lisans
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
+
