@@ -1,0 +1,41 @@
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\bin\Debug\net7.0-windows\Matik_213301069.exe
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\bin\Debug\net7.0-windows\Matik_213301069.deps.json
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\bin\Debug\net7.0-windows\Matik_213301069.runtimeconfig.json
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\bin\Debug\net7.0-windows\Matik_213301069.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\bin\Debug\net7.0-windows\Matik_213301069.pdb
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.csproj.AssemblyReference.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.Form1.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.Form2.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.csproj.GenerateResource.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.AssemblyInfoInputs.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.AssemblyInfo.cs
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\refint\Matik_213301069.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.pdb
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.genruntimeconfig.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\ref\Matik_213301069.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.Form3.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.Properties.Resources.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.Form4.resources
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\bin\Debug\net7.0-windows\Matik_213301069.exe
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\bin\Debug\net7.0-windows\Matik_213301069.deps.json
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\bin\Debug\net7.0-windows\Matik_213301069.runtimeconfig.json
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\bin\Debug\net7.0-windows\Matik_213301069.dll
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\bin\Debug\net7.0-windows\Matik_213301069.pdb
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.Form1.resources
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.Form2.resources
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.Form3.resources
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.Form4.resources
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.Properties.Resources.resources
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.csproj.GenerateResource.cache
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.AssemblyInfoInputs.cache
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.AssemblyInfo.cs
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.csproj.CoreCompileInputs.cache
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.dll
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\refint\Matik_213301069.dll
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.pdb
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\Matik_213301069.genruntimeconfig.cache
+F:\PRGD-3 Ödevler\Mat Oyunu\Matik_213301069\Matik_213301069\obj\Debug\net7.0-windows\ref\Matik_213301069.dll
